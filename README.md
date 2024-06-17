@@ -1,1 +1,1 @@
-# llm-linterna-verde
+# An LLM trained on narratives derived from social media monitoring
